@@ -1,0 +1,5 @@
+0 rafael com boné
+1 rafael sem boné
+2 pedra
+3 papel
+4 tesoura
